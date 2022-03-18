@@ -15,4 +15,5 @@
   "[markdown]": {
     "files.trimTrailingWhitespace": false
   },
+  "vite.autoStart": false,
 }
