@@ -11,6 +11,8 @@
   // Add the IDs of extensions you want installed when the container is created.
   "extensions": [
     "actboy168.tasks",
+    "johnsoncodehk.volar",
+    "johnsoncodehk.vscode-typescript-vue-plugin",
     "mhutchie.git-graph",
     "vivaxy.vscode-conventional-commits",
   ],
