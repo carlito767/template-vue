@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0-alpha.0",
+  "private": true,
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "@commitlint/config-conventional": "16.2.1",
+    "standard-version": "9.3.2"
+  }
+}

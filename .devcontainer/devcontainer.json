@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "dockerComposeFile": [
+    "../docker-compose.yml",
+    "../docker-compose.dev.yml"
+  ],
+  "service": "app",
+  // The optional 'workspaceFolder' property is the path VS Code should open by default when
+  // connected.
+  "workspaceFolder": "/workspace",
+  // Add the IDs of extensions you want installed when the container is created.
+  "extensions": [
+    "actboy168.tasks",
+    "mhutchie.git-graph",
+    "vivaxy.vscode-conventional-commits",
+  ],
+}
