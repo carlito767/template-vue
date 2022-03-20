@@ -2,6 +2,7 @@
   "name": "app",
   "version": "1.0.0-alpha.0",
   "private": true,
+  "packageManager": "pnpm@latest",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
