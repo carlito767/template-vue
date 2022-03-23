@@ -2,5 +2,5 @@
 </script>
 
 <template>
-  <main>Hello World!</main>
+  <main>error 404 (page not found)</main>
 </template>
